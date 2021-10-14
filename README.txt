@@ -41,5 +41,5 @@ the directory where the script is located, and then type
    again.
 
 7. As mentioned above, if you choose you no longer need Window InFront, navigate to the folder where you keep
-   your originally-downloaded script and click the uninstall.bat file. When the window opens, select "Uninstall"
+   your originally-downloaded script and click the uninstall.ps1 file. When the window opens, select "Uninstall"
    Once the script says "done :)", AHK is completely uninstalled.
