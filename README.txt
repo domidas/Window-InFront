@@ -28,22 +28,18 @@ the directory where the script is located, and then type
 
 2. When prompted for AutoHotKey making changes to your computer, select "yes".
 
-3. When the installer opens, click "typical install" and then "exit".
-
-4. Type "y" and [enter] if you are ready to restart immediately, and "n" if you would like changes to be made on 
+3. Type "y" and [enter] if you are ready to restart immediately, and "n" if you would like changes to be made on 
    the PC's next startup.
 
-5. Once the installation process is complete and the computer has had a chance to restart, the program is ready
+4. Once the installation process is complete and the computer has had a chance to restart, the program is ready
    to use.
 
-6. To use Window InFront, click inside the window you would like to keep in front of all your other ones, and 
+5. To use Window InFront, click inside the window you would like to keep in front of all your other ones, and 
    press CTRL + Spacebar.
 
-7. When you would like to turn off Window InFront for a window, click in the window and press CTRL + Spacebar
+6. When you would like to turn off Window InFront for a window, click in the window and press CTRL + Spacebar
    again.
 
-8. As mentioned above, if you choose you no longer need Window InFront, navigate to the folder where you keep
+7. As mentioned above, if you choose you no longer need Window InFront, navigate to the folder where you keep
    your originally-downloaded script and click the uninstall.bat file. When the window opens, select "Uninstall"
-   Once the script says "done :)", the batch file can be closed.
-
-
+   Once the script says "done :)", AHK is completely uninstalled.
