@@ -1,8 +1,8 @@
 ﻿#Window InFront Uninstaller
 
-#Author: f-poke
+#Author: domidas
 
-#github.com/f-poke
+#github.com/domidas
 
 cd $env:USERPROFILE
 cd '.\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'
